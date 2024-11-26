@@ -1,0 +1,12 @@
+Software Requirement:
+IDE- VSCode or Pycharm
+Xampp for MYSQL
+
+
+FrontEnd Language-python
+Backend Database-mysql
+
+Module:
+pip install pillow
+pip install mysql-connector-python
+
